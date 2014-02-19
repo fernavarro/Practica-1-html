@@ -1,0 +1,37 @@
+<html>
+<head>
+<title>Practica 1</title>
+<body bgcolor="#FFCC66">
+<h1 align="center" >Autodromo</h1>
+<hr>
+<img src="civic.jpg"" border="1" width="400" height="300">
+<img src="versa.jpg"border="1"width="500"height="300">
+<p><h2>Primer enlace</p></h2>
+<a href="http://wikimapia.org/751573/es/Aut%C3%B3dromo-Toluquilla" target="_blank">Autodromo Toluquilla.</a>
+<p><h2>Segundo enlace</p></h2>
+<a href="http://es.wikipedia.org/wiki/Honda_Civic_Si" target="_blank">Historia del Civic.</a>
+<p><h2>Tercer enlace</p></h2>
+<a href="http://www.serempresario.com/2011/11/nissan-versa/" target="_blank">Historia del Versa.</a>
+<p>Lista</p>
+<ul>
+        <li><h3>Autodromo Toluquilla</li></h3>
+        <li><h3>Historia del Civic</li></h3>
+        <li><h3>Historia del Versa</li></h3>
+</ul>
+<hr>
+<p><h2>Tiempos en 1/4 de milla</p></h2>
+<table border="2" style="width:400px">
+<tr>
+  <td><h3>Fernando</td></h3>
+  <td><h3>Civic</td></h3>
+  <td><h3>10.234</td></h3>
+</tr>
+<tr>
+  <td><h3>Oscar</td></h3>
+  <td><h3>versa</td></h3> 
+  <td><h3>20.324</td></h3>
+</tr>
+</table>
+</head>
+</body>
+</html>
